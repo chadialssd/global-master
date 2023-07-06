@@ -1,0 +1,22 @@
+{
+  "name": "global-master",
+  "version": "1.0.0",
+  "description": "### [Featured on Freebiesbug](http://freebiesbug.com/psd-freebies/global-futuristic-one-page-portfolio-psd-html/)",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./assets/css/main.sass:./assets/css/main.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chadialssd/global-master.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chadialssd/global-master/issues"
+  },
+  "homepage": "https://github.com/chadialssd/global-master#readme",
+  "dependencies": {
+    "sass": "^1.63.6"
+  }
+}
